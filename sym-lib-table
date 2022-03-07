@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Keyboard")(type "KiCad")(uri "${KIPRJMOD}/library/Keyboard.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi")(type "KiCad")(uri "${KIPRJMOD}/library/MCU_RaspberryPi.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_Flash_Extra")(type "Legacy")(uri "${KIPRJMOD}/library/Memory_Flash_Extra.lib")(options "")(descr ""))
+)

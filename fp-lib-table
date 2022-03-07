@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Connector_Hirose_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Connector_Hirose_Extra.pretty")(options "")(descr ""))
+  (lib (name "Package_DFN_QFN_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Package_DFN_QFN_Extra.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinHeader_2.54mm_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Connector_PinHeader_2.54mm_Extra.pretty")(options "")(descr ""))
+  (lib (name "Symbols_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Symbols_Extra.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+[submodule "library"]
+	path = library
+	url = git@github.com:arturo182/kicad-library.git
+[submodule "modules"]
+	path = modules
+	url = git@github.com:arturo182/kicad-modules.git

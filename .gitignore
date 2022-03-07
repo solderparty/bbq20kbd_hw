@@ -1,0 +1,7 @@
+*.kicad_pcb-bak
+*.kicad_prl
+*.dcm
+*.bak
+*.bck
+gerb
+*-backups
