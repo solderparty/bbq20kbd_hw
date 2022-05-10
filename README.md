@@ -18,6 +18,8 @@ In addition to that, the board also has a USB Type-C socket, and when connected 
 
 The firmware can be configured over USB using the Vendor Class interface.
 
+The firmware can be found here: https://github.com/solderparty/i2c_puppet
+
 The I2C interface is compatible with the old BBQ10 module, you can use the same libraries to interface this board:
 - [Arduino library](https://github.com/arturo182/arduino_bbq10kbd)
 - [CircuitPython library](https://github.com/arturo182/arturo182_CircuitPython_BBQ10Keyboard)
