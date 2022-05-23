@@ -12,7 +12,7 @@ We added a **Qwiic/Stemma QT** connector, we added **USB HID support**, we chang
 
 The board uses the Raspberry Pi RP2040 MCU to poll the keyboard and trackpad and put the key press information into a FIFO. 
 
-You can use the I2C interface to read the FIFO, reconfigure the chip, and change the keyboar backlight.
+You can use the I2C interface to read the FIFO, reconfigure the chip, and change the keyboard backlight.
 
 In addition to that, the board also has a USB Type-C socket, and when connected to a desktop computer (**Windows/Linux/MacOS**), a smartphone (**iOS/Android**), or a SBC (**Raspberry Pi**, etc), it enumerates as a USB HID Keyboard and Mouse combo! 
 
